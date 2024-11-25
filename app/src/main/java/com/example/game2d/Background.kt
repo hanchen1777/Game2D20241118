@@ -1,3 +1,5 @@
+package com.example.game2d
+
 import kotlin.math.abs
 
 class Background(val screenW:Int) {
